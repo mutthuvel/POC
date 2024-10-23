@@ -1,0 +1,14 @@
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\bin\Debug\net8.0\Solid_Principles_POC.exe
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\bin\Debug\net8.0\Solid_Principles_POC.deps.json
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\bin\Debug\net8.0\Solid_Principles_POC.runtimeconfig.json
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\bin\Debug\net8.0\Solid_Principles_POC.dll
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\bin\Debug\net8.0\Solid_Principles_POC.pdb
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\obj\Debug\net8.0\Solid_Principles_POC.GeneratedMSBuildEditorConfig.editorconfig
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\obj\Debug\net8.0\Solid_Principles_POC.AssemblyInfoInputs.cache
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\obj\Debug\net8.0\Solid_Principles_POC.AssemblyInfo.cs
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\obj\Debug\net8.0\Solid_Principles_POC.csproj.CoreCompileInputs.cache
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\obj\Debug\net8.0\Solid_Principles_POC.dll
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\obj\Debug\net8.0\refint\Solid_Principles_POC.dll
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\obj\Debug\net8.0\Solid_Principles_POC.pdb
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\obj\Debug\net8.0\Solid_Principles_POC.genruntimeconfig.cache
+C:\noOneDrive\Projects\POC\SOLID_Principles_POC\Solid_Principles_POC\obj\Debug\net8.0\ref\Solid_Principles_POC.dll
